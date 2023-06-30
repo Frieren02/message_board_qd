@@ -36,6 +36,14 @@ npm run lint
 
 vue2 + vueX + vueRouter + axios + element-ui
 
+### 相关配套项目地址
+
+| 说明         | 地址                                              |
+| ------------ | ------------------------------------------------- |
+| 后端项目     | https://gitee.com/zhouhxgitee/message-board-hd    |
+| 客户端Gitee  | https://gitee.com/zhouhxgitee/message-board-qd    |
+| 后台管理     | https://gitee.com/zhouhxgitee/message-board-admin |
+
 ### 配置文件
 
 ```
